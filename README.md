@@ -36,7 +36,7 @@ Key models and Techniques
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/nasa-turbofan-rul.git
+git clone 
 cd nasa-turbofan-rul
 pip install -r requirements.txt
 ```
